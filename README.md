@@ -5,3 +5,4 @@ joint positions PID gains only -- proportional gains are applied only to joint a
 
 Screenshot #2 is the system output for approach 1
 
+MIMOforRRR - is the simulink file for 1st approach.
