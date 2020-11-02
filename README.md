@@ -28,3 +28,5 @@ is again third approach, but with inertia and masses set to real values.
 Scope 2 - error of position gain
 Scope 1 - error of velocity gain
 Scope - output of the system
+
+variablearm.slx is the simulink model for 2nd and 3rd approach, but the connection of q' should be specified accordingly with required approach
