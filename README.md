@@ -30,3 +30,6 @@ Scope 1 - error of velocity gain
 Scope - output of the system
 
 variablearm.slx is the simulink model for 2nd and 3rd approach, but the connection of q' should be specified accordingly with required approach
+
+As it can be seen from the screenshots, the best performance is shown in approach 3, but with inertia and masses set to 0 (screenshot #4).
+
